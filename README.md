@@ -1,15 +1,15 @@
-# Proyecto Construcción de Rack
+# 🛠️Proyecto Construcción de Rack🛠️
 
-## Descripción
+## 📝Descripción
 Este repositorio contiene todos los detalles del rack que he construido, incluyendo planos, observaciones, imágenes y más.
 
 <a href="https://www.instagram.com/reel/C8SmRuKOeO0/">
-    <img src="./images/preview_rack.jpeg" alt="Vista Previa del Video" width="220">
+    <img src="./images/preview_rack1.png" alt="Vista Previa del Video" width="220">
 </a>
 
 Haz clic en la imagen para ver el video de la construcción del rack.
 
-## Tabla de Contenidos
+## 📋Tabla de Contenidos
 - [Descripción](#descripción)
 - [Contenido del Proyecto](#contenido-del-proyecto)
   - [Planos](#planos)
@@ -17,17 +17,17 @@ Haz clic en la imagen para ver el video de la construcción del rack.
   - [Imágenes](#imágenes)
 - [Autor](#autor)
 
-## Contenido del Proyecto
+## 📦Contenido del Proyecto
 
-- ### Planos
+- ### 📐Planos
   Los planos del rack están disponibles en la carpeta [plans](./plans).
 
-- ### Observaciones
+- ### 🔍Observaciones
   Las observaciones y notas detalladas se pueden encontrar en la carpeta [notes](./notes).
 
-- ### Imágenes
+- ### 🖼Imágenes
   Las imágenes relacionadas con el proyecto están en la carpeta [images](./images).
 
-## Autor
+## 👤Autor
 - **Nombre:** Fabricio
 - **Contacto:** fabricioherrera1702@gmail.com
