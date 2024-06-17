@@ -6,7 +6,7 @@ Este repositorio contiene todos los detalles del rack que he construido, incluye
 ## Video de Construcción
 
 <a href="https://www.instagram.com/reel/C8SmRuKOeO0/">
-    <img src="./images/preview_rack.jpeg" alt="Vista Previa del Video" width="600">
+    <img src="./images/preview_rack.jpeg" alt="Vista Previa del Video" width="220">
 </a>
 
 Haz clic en la imagen para ver el video de la construcción del rack.
