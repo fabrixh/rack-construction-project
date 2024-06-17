@@ -1,4 +1,6 @@
 ## Imágenes del Proyecto
 
 ### Imagen del Rack Terminado
-![Rack Terminado](./images/3.jpeg)
+![Rack Terminado](./images/1.jpeg)
+
+
