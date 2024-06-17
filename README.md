@@ -1,6 +1,5 @@
 # 🛠️Proyecto Construcción de Rack🛠️
 
-## 📝Descripción
 Este repositorio contiene todos los detalles del rack que he construido, incluyendo planos, observaciones, imágenes y más.
 
 <a href="https://www.instagram.com/reel/C8SmRuKOeO0/">
@@ -10,7 +9,6 @@ Este repositorio contiene todos los detalles del rack que he construido, incluye
 Haz clic en la imagen para ver el video de la construcción del rack.
 
 ## 📋Tabla de Contenidos
-- [Descripción](#descripción)
 - [Contenido del Proyecto](#contenido-del-proyecto)
   - [Planos](#planos)
   - [Observaciones](#observaciones)
