@@ -27,5 +27,5 @@ Haz clic en la imagen para ver el video de la construcción del rack.
   Las imágenes relacionadas con el proyecto están en la carpeta [images](./images).
 
 ## 👤Autor
-- **Nombre:** Fabricio
+- **Nombre:** @fabri.lar
 - **Contacto:** fabricioherrera1702@gmail.com
