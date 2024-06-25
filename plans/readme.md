@@ -21,3 +21,6 @@ Agregado de todos los planos usados para el proyecto
 
 
 <img src="/images/1000033193-01.jpg" width="580">
+
+Medidas de angulos
+https://www.gerdau.com.ar/node/341
