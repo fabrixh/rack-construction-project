@@ -1,7 +1,7 @@
 # Planos
 Agregado de todos los planos usados para el proyecto
 
-## Especificaciones del Rack
+## Especificaciones del Rack plegable
 
 | Característica | Detalle                     |
 | -------------- | --------------------------- |
