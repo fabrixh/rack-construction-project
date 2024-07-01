@@ -16,9 +16,9 @@ Agregado de todos los planos usados para el proyecto
 - [Instrucciones de Construcción](./docs/instructions.md)
 
 <img src="/images/1000033193-01.jpg" width="580">
-
+Barras de seguridad
 <img src="/images/1000033256-01.jpeg" width="580">
-
+Agarres laterales
 <img src="/images/1000033254-01.jpeg" width="580">
 
 
