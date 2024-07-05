@@ -20,7 +20,7 @@ Haz clic en la imagen para ver el video de la construcción del rack.
 - ### 📐Planos
   Los planos del rack están disponibles en la carpeta [plans](./plans).
 
-- ### 🔍Observaciones
+- ### 🔍Observaciones 
   Las observaciones y notas detalladas se pueden encontrar en la carpeta [notes](./notes).
 
 - ### 🖼Imágenes
