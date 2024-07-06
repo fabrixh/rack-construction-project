@@ -3,7 +3,7 @@ Agregado de todos los planos usados para el proyecto
 
 ## Especificaciones del Rack plegable
 
-| Característica | Detalle                     |
+| Características | Detalles                     |
 | -------------- | --------------------------- |
 | Altura         | 210 centímetros             |
 | Ancho          | 96 centímetros              |
