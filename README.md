@@ -1,6 +1,6 @@
 # 🛠️Proyecto Construcción de Rack🛠️
 
-Este repositorio contiene todos los detalles del rack que he construido, incluyendo planos, observaciones, imágenes y más.
+Este repositorio contiene todos los detalles del rack plegable que he construido, incluyendo planos de diseño, observaciones, imágenes y más.
 
 <a href="https://www.instagram.com/reel/C8SmRuKOeO0/">
     <img src="./images/preview_rack1.png" alt="Vista Previa del Video" width="220">
