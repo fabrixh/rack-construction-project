@@ -23,5 +23,5 @@ Agarres laterales
 
 
 
-Medidas de angulos
+Medidas de angulos y su explicacion 
 https://www.gerdau.com.ar/node/341
