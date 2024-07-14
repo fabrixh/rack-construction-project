@@ -18,13 +18,13 @@ Haz clic en la imagen para ver el video de la construcción del rack.
 ## 📦Contenido del Proyecto
 
 - ### 📐Planos
-  Los planos del rack están disponibles en la carpeta [plans](./plans).
+  Los planos del rack están disponibles en la carpeta de [plans](./plans).
 
 - ### 🔍Observaciones 
-  Las observaciones y notas detalladas se pueden encontrar en la carpeta [notes](./notes).
+  Las observaciones y notas detalladas se pueden encontrar en la carpeta de [notes](./notes).
 
 - ### 🖼Imágenes
-  Las imágenes relacionadas con el proyecto están en la carpeta [images](./images).
+  Las imágenes relacionadas con el proyecto están en la carpeta de[images](./images).
 
 ## 👤Autor
 - **Nombre:** @fabri.lar
