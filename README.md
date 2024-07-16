@@ -1,4 +1,4 @@
-# 🛠️Proyecto Construcción de Rack🛠️
+# Proyecto Construcción de Rack Plegable🏗️
 
 Este repositorio contiene todos los detalles del rack plegable que he construido, incluyendo planos de diseño, observaciones, imágenes y más.
 
