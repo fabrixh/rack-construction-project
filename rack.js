@@ -33,7 +33,7 @@ class Rack {
 // Crear una instancia de Rack
 const myRack = new Rack();
 
-// Agregar algunos elementos al rack
+// Agregar algunos elementos al rack.
 myRack.addItem('Libro 1');
 myRack.addItem('Libro 2');
 myRack.addItem('Libro 3');
