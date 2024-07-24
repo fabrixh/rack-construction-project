@@ -15,7 +15,7 @@ Haz clic en la imagen para ver el video de la construcción del rack.
   - [Imágenes](#imágenes)
 - [Autor](#autor)
 
-## 📦Contenido del Proyecto
+## 📦Contenido del Proyecto:
 
 - ### 📐Planos
   Los planos del rack están disponibles en la carpeta de [plans](./plans).
