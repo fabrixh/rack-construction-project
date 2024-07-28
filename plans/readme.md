@@ -20,7 +20,8 @@ Barras de seguridad
 <img src="/images/1000033256-01.jpeg" width="580">
 Agarres laterales
 <img src="/images/1000033254-01.jpeg" width="580">
-
+Soporte barra olimpica
+<img src="/images/1000033245-01.jpeg" width= "580">
 
 
 Medidas de angulos y su explicacion:
