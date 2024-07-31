@@ -8,7 +8,7 @@ Este repositorio contiene todos los detalles del rack plegable que he construido
 
 Haz clic en la imagen para ver el video de la construcción del rack.
 
-## 📋Tabla de Contenidos
+## 📋Tabla de Contenidos>
 - [Contenido del Proyecto](#contenido-del-proyecto)
   - [Planos](#planos)
   - [Observaciones](#observaciones)
