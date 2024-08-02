@@ -6,7 +6,7 @@ Este repositorio contiene todos los detalles del rack plegable que he construido
     <img src="./images/preview_rack1.png" alt="Vista Previa del Video" width="220">
 </a>
 
-Haz clic en la imagen para ver el video de la construcción del rack.
+Haz clic en la imagen, para ver el video de la construcción del rack.
 
 ## 📋Tabla de Contenidos>
 - [Contenido del Proyecto](#contenido-del-proyecto)
@@ -26,6 +26,6 @@ Haz clic en la imagen para ver el video de la construcción del rack.
 - ### 🖼Imágenes:
   Las imágenes relacionadas con el proyecto están en la carpeta de[images](./images).
 
-## 👤Autor
+## 👤Autor/es
 - **Nombre:** @fabri.lar
 - **Contacto:** fabricioherrera1702@gmail.com
