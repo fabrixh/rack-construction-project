@@ -28,4 +28,4 @@ Haz clic en la imagen, para ver el video de la construcción del rack.
 
 ## 👤Autor/es
 - **Nombre:** @fabri.lar
-- **Contacto:** fabricioherrera1702@gmail.com
+- **Contacto:** fabricioherrera1702atgmail.com
