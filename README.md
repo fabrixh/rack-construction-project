@@ -6,7 +6,7 @@ Este repositorio contiene todos los detalles del rack plegable construido, inclu
     <img src="./images/preview_rack1.png" alt="Vista Previa del Video" width="220">
 </a>
 
-Haz clic en la imagen, para ver el video de la construcción del rack.
+Haz clic en la imagen, para ver el video de la construcción del rack plegable.
 
 ## 📋Tabla de Contenidos>
 - [Contenido del Proyecto](#contenido-del-proyecto)
