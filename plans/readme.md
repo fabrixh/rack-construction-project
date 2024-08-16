@@ -24,5 +24,5 @@ Soporte barra olimpica
 <img src="/images/1000033245-01.jpeg" width= "580">
 
 
-Medidas de angulos y su explicacion:
+Medidas de angulos y su explicación:
 https://www.gerdau.com.ar/node/341
