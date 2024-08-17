@@ -1,5 +1,5 @@
 # Planos
-Agregado de todos los planos usados para el proyecto
+Agregado de todos los planos usados para el proyecto del rack plegable 
 
 ## Especificaciones del Rack plegable
 
@@ -24,5 +24,5 @@ Soporte barra olimpica
 <img src="/images/1000033245-01.jpeg" width= "580">
 
 
-Medidas de angulos y su explicación:
+Medidas de materia prima de angulos estandares y su explicación:
 https://www.gerdau.com.ar/node/341
