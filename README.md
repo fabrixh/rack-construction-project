@@ -1,6 +1,6 @@
 # Proyecto Construcción de Rack Plegable🏗️
 
-Este repositorio contiene todos los detalles del rack plegable construido, incluyendo planos de diseño, observaciones, imágenes y más. El proyecto abarcó un período total de 28 días, durante los cuales se realizó el diseño inicial, la toma de medidas, la definición y creación de componentes, las pruebas de calidad, el ensamblaje y la instalacion para el usuario final en el lugar:
+Este repositorio contiene todos los detalles del rack plegable construido, incluyendo planos de diseño, observaciones, imágenes y más. El proyecto abarcó un período total de 28 días, durante los cuales se realizó el diseño inicial, la toma de medidas, la definición y creación de componentes, las pruebas de calidad, el ensamblaje y la instalacion para el usuario final en el lugar:fksdhd
 
 <a href="https://www.instagram.com/reel/C8SmRuKOeO0/">
     <img src="./images/preview_rack1.png" alt="Vista Previa del Video" width="220">
