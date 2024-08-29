@@ -22,6 +22,7 @@ Haz clic en la imagen, para ver el video de la construcción del rack plegable.
 
 - ### 🔍Observaciones: 
   Las observaciones y notas detalladas se pueden encontrar en la carpeta de [notes](./notes).
+se creo una versión simplificada y práctica 
 
 - ### 🖼Imágenes:
   Las imágenes relacionadas con el proyecto están en la carpeta de[images](./images).
