@@ -7,7 +7,6 @@
 >    <img src="./images/preview_rack1.png" alt="Vista Previa del Video" width="220">
 > </a>
 
-
 > [!TIP]
 > - [Contenido del Proyecto](#contenido-del-proyecto)
 > - [Planos](#planos)
