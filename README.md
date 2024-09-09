@@ -22,7 +22,7 @@
 >
 > ### 🔍Observaciones: 
 >  Las observaciones y notas detalladas se pueden encontrar en la carpeta de [notes](./notes).
-se creo una versión simplificada y práctica 
+se creo una versión simplificada y práctica. 
 
 > [!Warning]
 > ### 🖼Imágenes:
