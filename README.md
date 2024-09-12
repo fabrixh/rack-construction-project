@@ -19,7 +19,7 @@
 >[!IMPORTANT]
 > ## 📦Contenido del Proyecto
 >
-> ### 📐Planos:
+> ### 📐 Planos: 
 > Los planos del rack están disponibles en la carpeta de: [plans](./plans). Version 1.5
 >
 > ### 🔍Observaciones: 
