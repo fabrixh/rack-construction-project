@@ -33,6 +33,6 @@ se creo una versión simplificada y práctica.
 >  Las imágenes relacionadas con el proyecto están en la carpeta de[images](./images).
 
 > [!Caution]
-> ## 👤Autor/es
+> ## 👤Autor
 >- **Nombre:** @fabri.lar
 >- **Contacto:** fabricioherrera1702atgmail.com
