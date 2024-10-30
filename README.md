@@ -7,7 +7,6 @@
 >
 >
 >
->
 > 
 > `Donde está tu mayor miedo, se encuentra tu mayor crecimiento.`
 >
