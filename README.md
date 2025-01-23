@@ -7,7 +7,7 @@
 > Quotes
  
 
-  
+   
 
 
 >
@@ -21,7 +21,7 @@
 > 
  
 .
-> `Donde está tu mayor miedo, se encuentra tu mayor crecimiento.`
+> `Donde está tu mayor miedo, se encuentra tu mayor crecimiento. Carl Jung`
 >
 > <a href="https://www.instagram.com/reel/C8SmRuKOeO0/">
 >    <img src="./images/preview_rack1.png" alt="Vista Previa del Video" width="220">
