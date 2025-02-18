@@ -6,7 +6,7 @@
 > [!NOTE]
 > Este repositorio contiene todos los detalles del rack plegable construido, incluyendo planos de diseño, observaciones, imágenes y más. El proyecto abarcó un período total de 28 días, durante los cuales se realizó el diseño inicial, la toma de medidas, la definición y creación de componentes, las pruebas de calidad, el ensamblaje y la instalacion para el usuario final.
 > Quotes
- 
+  
 
 
 >
