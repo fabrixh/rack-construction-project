@@ -8,8 +8,6 @@
 > Quotes
 >
 > 
-.
-> `Donde está tu mayor miedo, se encuentra tu mayor crecimiento. Carl Jung`
 >
 > <a href="https://www.instagram.com/reel/C8SmRuKOeO0/">
 >    <img src="./images/preview_rack1.png" alt="Vista Previa del Video" width="220">
@@ -30,7 +28,8 @@
 >
 > ### 🔍Observaciones: 
 >  Las observaciones y notas detalladas se pueden encontrar en la carpeta de [notes](./notes).
-se creo una versión simplificada y práctica. 
+se creo una versión simplificada y práctica.
+>`Donde está tu mayor miedo, se encuentra tu mayor crecimiento. Carl Jung`
 
 > [!Warning]
 > ### 🖼Imágenes:
