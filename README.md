@@ -1,5 +1,4 @@
 
- 
 # Proyecto Construcción de Rack Plegable🏗️
 
 > [!NOTE]
